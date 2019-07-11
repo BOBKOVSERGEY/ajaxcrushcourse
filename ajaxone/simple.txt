@@ -1,0 +1,1 @@
+To register an explicit binding, use the router's model method to specify the class for a given parameter. You should define your explicit model bindings in the boot method of the RouteServiceProvider class:
